@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "ISBN": "978-0735211292"
+  },
+  {
+    "title": "Haunting Adeline",
+    "author": "H. D. Carlton",
+    "ISBN": "978-1957635010"
+  },
+  {
+    "title": "Better Than The Movies",
+    "author": "Lynn Painter",
+    "ISBN": "978-1534467620"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "ISBN": "978-1612680194"
+  },
+  {
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "ISBN": "978-0140280197"
+  },
+  {
+    "title": "The Sweetest Oblivion (Made Book 1)",
+    "author": "Danielle Lori",
+    "ISBN": "978-1721284443"
+  },
+  {
+    "title": "The Maddest Obsession (Made Book 2)",
+    "author": "Danielle Lori",
+    "ISBN": "978-1796835693"
+  },
+  {
+    "title": "The Darkest Temptation (Made Book 3)",
+    "author": "Danielle Lori",
+    "ISBN": "978-1735642792"
+  },
+  {
+    "title": "The Strength In Our Scars",
+    "author": "Bianca Sparacino",
+    "ISBN": "978-1949759228"
+  },
+  {
+    "title": "Credence",
+    "author": "Penelope Douglas",
+    "ISBN": "978-1660089055"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "ISBN": "978-1250301697"
+  },
+  {
+    "title": "A Thousand Boy Kisses",
+    "author": "Tillie Cole",
+    "ISBN": "978-1533701112"
+  },
+  {
+    "title": "Girl In Pieces",
+    "author": "Kathleen GlasGow",
+    "ISBN": "978-1101997180"
+  },
+  {
+    "title": "Corrupt (Devil's Night Book 1)",
+    "author": "Penelope Douglas",
+    "ISBN": "978-0990715867"
+  },
+  {
+    "title": "Hideaway (Devil's Night Book 2)",
+    "author": "Penelope Douglas",
+    "ISBN": "978-0990715881"
+  },
+  {
+    "title": "Kill Switch (Devil's Night Book 3)",
+    "author": "Penelope Douglas",
+    "ISBN": "978-0990715898"
+  },
+  {
+    "title": "Conclave (Devil's Night Book 4)",
+    "author": "Penelope Douglas",
+    "ISBN": "978-1733023706"
+  },
+  {
+    "title": "Nightfall (Devil's Night Book 5)",
+    "author": "Penelope Douglas",
+    "ISBN": "978-1733023713"
+  },
+  {
+    "title": "Fire Night (Devil's Night Book 6)",
+    "author": "Penelope Douglas",
+    "ISBN": "978-1733023720"
+  },
+  {
+    "title": "Sense And Sensibility",
+    "author": "Jane Austen",
+    "ISBN": "978-0141439662"
+  },
+  {
+    "title": "Pride And Prejudice",
+    "author": "Jane Austen",
+    "ISBN": "978-1503290563"
+  },
+  {
+    "title": "Mansfield Park",
+    "author": "Jane Austen",
+    "ISBN": "978-1503290564"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "ISBN": "978-0593622476"
+  },
+  {
+    "title": "Northanger Abbey",
+    "author": "Jane Austen",
+    "ISBN": "978-1853260438"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "ISBN": "978-0141439686"
+  },
+  {
+    "title": "The Quran",
+    "author": "Multiple Authors",
+    "ISBN": "978-0140449136"
+  },
+  {
+    "title": "The Bhagavad Gita",
+    "author": "Vyasa",
+    "ISBN": "978-0143039670"
+  },
+  {
+    "title": "The Holy Bible",
+    "author": "Multiple Authors",
+    "ISBN": "978-0062046155"
+  },
+  {
+    "title": "The Dhammapada",
+    "author": "Multiple Authors",
+    "ISBN": "978-0140445008"
+  },
+  {
+    "title": "The Tao Te Ching",
+    "author": "Laozi",
+    "ISBN": "978-1590305461"
+  },
+  {
+    "title": "The Life of Muhammad",
+    "author": "Muhammad Husayn Haykal",
+    "ISBN": "978-0813015129"
+  },
+  {
+    "title": "The Upanishads",
+    "author": "Multiple Authors",
+    "ISBN": "978-0140441185"
+  },
+  {
+    "title": "Mere Christianity",
+    "author": "C.S. Lewis",
+    "ISBN": "978-0060652920"
+  },
+  {
+    "title": "What the Buddha Taught",
+    "author": "Walpola Rahula",
+    "ISBN": "978-0802130319"
+  },
+  {
+    "title": "The Book of Chuang Tzu",
+    "author": "Martin Palmer (Translator)",
+    "ISBN": "978-0140442373"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "ISBN": "978-0441013593"
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "ISBN": "978-1250080400"
+  }
+]
