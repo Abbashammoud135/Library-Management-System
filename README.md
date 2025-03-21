@@ -7,7 +7,6 @@
 
 • Secured user authentication by hashing passwords with a salt to prevent rainbow table attacks.
 
-
 ## Running the Application
 Follow these steps to set up and run the application:
 
