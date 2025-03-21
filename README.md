@@ -1,4 +1,8 @@
-## Library Management System
+## Library Management System Using C# WFA 
+• Implemented design patterns like Decorator, Singleton, and Factory for scalable and maintainable architecture, utilizing the MVC architectural pattern.
+• Created an admin dashboard for managing students, books, and notifications via email or login, including overdue reminders.
+• Enabled members to seamlessly borrow and return books through an intuitive interface.
+• Secured user authentication by hashing passwords with a salt to prevent rainbow table attacks.
 
 ## Running the Application
 Follow these steps to set up and run the application:
